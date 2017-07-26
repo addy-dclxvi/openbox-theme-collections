@@ -1,6 +1,6 @@
 # My Openbox Theme Collections
 As the title said, this is my personal repo contains my Openbox theme collections.
-These themes are only window decorator. Suitable GTK theme for these theme are [Arc Colora Series](https://github.com/erikdubois/Arc-Theme-Colora-Collection).
+These themes are just window decorator. Suitable GTK theme for these theme are [Arc Colora Series](https://github.com/erikdubois/Arc-Theme-Colora-Collection).
 ## Preview
 ![alt text](https://raw.githubusercontent.com/addy-dclxvi/Openbox-Theme-Collections/master/preview.jpg)
 I can't give every theme preview one by one, but You can view my DeviantArt [gallery](http://addy-dclxvi.deviantart.com/gallery/).
