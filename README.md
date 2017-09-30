@@ -6,13 +6,9 @@ These themes are just window decorator. Suitable GTK theme for these theme are [
 I can't give every theme preview one by one, but You can view My Deviant Art [Gallery](http://addy-dclxvi.deviantart.com/gallery/).
 Every of my Openbox setups are using these themes.
 ## Installation
-Change directory to your themes folder
+Just clone this to your themes folder
 ```
-cd ~/.themes
-```
-Then clone this theme
-```
-git clone https://github.com/addy-dclxvi/Openbox-Theme-Collections
+git clone https://github.com/addy-dclxvi/Openbox-Theme-Collections ~/.themes
 ```
 Then apply a theme You desire using LX Appearance or Obconf.
 ## Credits
