@@ -1,0 +1,78 @@
+!! Bonzo by Addy
+!! Inspired by Onyx by Dana Jansens
+
+!! Menu background
+menu.items.bg: flat
+menu.items.bg.color: #ffffff
+menu.overlap.x: -4
+
+!! Menu text
+menu.items.text.color: #606060
+menu.items.justify: left
+menu.items.disabled.text.color: #8a8a8a
+
+!! Menu separator
+menu.separator.padding.height: 2
+menu.separator.color: #ffffff
+
+!! Menu border
+menu.border.width: 4
+menu.border.color: #ffffff
+
+!! Menu headers
+menu.title.bg: flat
+menu.title.bg.color: #ffffff
+menu.title.text.color: 4a4a4a
+menu.title.text.justify: center
+
+!! Selected menu item
+menu.items.active.bg: flat
+menu.items.active.bg.color: #bc435d
+menu.items.active.text.color: #fafafa
+
+!! Titlebar
+window.active.title.bg: flat
+window.active.title.bg.color: #bc435d
+window.inactive.title.bg: flat
+window.inactive.title.bg.color: #ffffff
+
+!! Titlebar text
+window.label.text.justify: center
+window.active.label.bg: parentrelative
+window.active.label.text.color: #2f343f
+window.inactive.label.bg: parentrelative
+window.inactive.label.text.color: #606060
+
+!! Window buttons
+window.*.button.*.bg: parentrelative
+window.active.button.*.hover.bg: flat
+window.inactive.button.*.hover.bg: parentrelative
+window.*.button.*.pressed.bg: flat
+
+window.active.button.*.hover.bg.color: #bc2546
+window.active.button.*.pressed.bg.color: #bc0030
+window.inactive.button.*.pressed.bg.color: #4ab5ff
+
+window.active.button.*.image.color: #2f343f
+window.active.button.disabled.image.color: #aaaaaa
+window.inactive.button.*.image.color: #8a8a8a
+window.inactive.button.disabled.image.color: #aaaaaa
+
+!! Borders
+window.active.border.color: #2f343f
+window.inactive.border.color: #ffffff
+border.width: 0
+padding.width: 4
+padding.height: 8
+window.handle.width: 0
+window.active.client.color:  #2f343f
+window.inactive.client.color:  #ffffff
+window.client.padding.width: 0
+window.client.padding.height: 0
+
+!! On-screen displays
+osd.bg: flat
+osd.border.width: 1
+osd.bg.color: #2f343f
+osd.border.color: #2f343f
+osd.label.text.color: #d8d8d8
