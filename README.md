@@ -2,12 +2,53 @@
 As the title said, this is my personal repo contains my Openbox theme collections.
 These themes are just window decorator.
 Suitable GTK theme for these theme are [Lumiere & Fantome](https://github.com/addy-dclxvi/gtk-theme-collections).
+
 ## Preview
-![alt text](https://raw.githubusercontent.com/addy-dclxvi/Openbox-Theme-Collections/master/preview.jpg)
-I can't give every theme preview one by one, but You can view My Deviant Art [Gallery](http://addy-dclxvi.deviantart.com/gallery/).
-Every of my Openbox setups are using these themes.
+
+## Arc-Clone
+![arc-clone](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/arc-clone.jpg) <br />
+Now Playing : Dream Theater - Never Enough
+
+# Arrondie
+![arrondie](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/arrondie.jpg) <br />
+Now Playing : Led Zeppelin - Since I've Been Loving You
+
+# Blocks
+![blocks](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/blocks.jpg) <br />
+Now Playing : Nirvana - Pennyroyal Tea
+
+# Bonzo
+![bonzo](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/bonzo.jpg) <br />
+Now Playing : Led Zeppelin - Fool in the Rain
+
+# Clair
+![clair](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/clair.jpg) <br />
+Now Playing : Dream Theater - Another Day
+
+# Leve
+![leve](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/leve.jpg) <br />
+Now Playing : Dream Theater - Six Degrees of Inner Turbulence
+
+# Pelangi
+![pelangi](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/pelangi.jpg) <br />
+Now Playing : Metallica - My Friend of Misery
+
+# Raven
+![raven](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/raven.jpg) <br />
+Now Playing : Dream Theater - Just Let Me Breathe
+
+# Triste
+![triste](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/triste.jpg) <br />
+Now Playing : Dream Theater - Endless Sacrifice
+
+# Vent
+![vent](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vent.jpg) <br />
+Now Playing : Dream Theater - Wither
+
 ## Installation
-Just clone this to your themes folder (but first make sure there is no *.git* folder inside your *~/.themes* folder, if You find it just delete)
+Listen to music I mention above. 
+Then, just clone this to your themes folder 
+(but first make sure there is no *.git* folder inside your *~/.themes* folder, if You find it just delete)
 ```
 git clone https://github.com/addy-dclxvi/openbox-theme-collections ~/.themes
 ```
