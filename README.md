@@ -45,6 +45,9 @@ Now Playing : Dream Theater - Endless Sacrifice
 ![vent](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vent.jpg) <br />
 Now Playing : Dream Theater - Wither
 
+# Numix-Clone
+![numix-clone](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/numix-clone.jpg) <br />
+
 ## Installation
 Listen to music I mention above. 
 Then, just clone this to your themes folder 
