@@ -48,6 +48,9 @@ Now Playing : Dream Theater - Wither
 # Numix-Clone
 ![numix-clone](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/numix-clone.jpg) <br />
 
+# Clia
+![clia](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/clia.jpg) <br />
+
 ## Installation
 Listen to music I mention above. 
 Then, just clone this to your themes folder 
