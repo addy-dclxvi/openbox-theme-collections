@@ -50,6 +50,11 @@ Now Playing : Dream Theater - Wither
 
 # Clia
 ![clia](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/clia.jpg) <br />
+Now Playing : Led Zeppelin - Thank You
+
+# Velnias
+![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/velnias.jpg) <br />
+Now Playing : Dream Theater - The Root of All Evil
 
 ## Installation
 Listen to music I mention above. 
