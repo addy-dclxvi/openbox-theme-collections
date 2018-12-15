@@ -56,6 +56,10 @@ Now Playing : Led Zeppelin - Thank You
 ![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/velnias.jpg) <br />
 Now Playing : Dream Theater - The Root of All Evil
 
+# Vermello
+![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/velnias.jpg) <br />
+Now Playing : Dream Theater - The Count of Tuscany
+
 ## Installation
 Listen to music I mention above. 
 Then, just clone this to your themes folder 
