@@ -57,7 +57,7 @@ Now Playing : Led Zeppelin - Thank You
 Now Playing : Dream Theater - The Root of All Evil
 
 # Vermello
-![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/velnias.jpg) <br />
+![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vermello.jpg) <br />
 Now Playing : Dream Theater - The Count of Tuscany
 
 ## Installation
