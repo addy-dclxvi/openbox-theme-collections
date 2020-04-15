@@ -60,6 +60,16 @@ Now Playing : Dream Theater - The Root of All Evil
 ![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vermello.jpg) <br />
 Now Playing : Dream Theater - The Count of Tuscany
 
+# Adiantum
+![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/adiantum.png) <br />
+Now Playing : Dragonforce - My Spirit Will Go On <br />
+Other files like lemonbar, i3status, Xresources, etc are inside the zip file
+
+# Vermello
+![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/umbra.png) <br />
+Now Playing : Dream Theater - Hey You (Live) <br />
+Other files like lemonbar, i3status, Xresources, gtk theme, dunst, geany, etc are inside the zip file
+
 ## Installation
 Listen to music I mention above. 
 Then, just clone this to your themes folder 
