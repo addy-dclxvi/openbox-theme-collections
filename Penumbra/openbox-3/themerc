@@ -1,0 +1,72 @@
+!! Menu
+menu.border.width: 1
+menu.border.color: #e9e9e9
+menu.overlap.x: -4
+menu.title.bg: flat
+menu.title.bg.color: #f6f7f1
+menu.title.text.color: #e9e9e9
+menu.title.text.justify: center
+menu.items.bg: flat
+menu.items.bg.color: #f6f7f1
+menu.items.text.color: #171717
+menu.items.active.bg: flat
+menu.items.active.bg.color: #b8b7b8
+menu.items.active.text.color: #f6f7f1
+menu.items.disabled.text.color: #4d5066
+menu.items.justify: left
+menu.separator.padding.height: 2
+menu.separator.color: #f6f7f1
+
+!! Titlebar
+window.*.title.bg: flat
+window.*.label.bg: parentrelative
+window.active.title.bg.color: #171717
+window.active.label.text.color: #e9e9e9
+window.inactive.title.bg.color: #171717
+window.inactive.label.text.color: #b3b0b1
+window.label.text.justify: center
+
+!! Titlebar buttons
+window.*.button.*.bg: parentrelative
+window.*.button.*.pressed.bg: flat
+window.active.button.*.image.color: #e9e9e9
+window.active.button.*.hover.image.color: #a0bda0
+window.active.button.*.pressed.bg.color: #a0bda0
+window.active.button.disabled.image.color: #e0ddde
+window.inactive.button.*.image.color: #b3b0b1
+window.inactive.button.disabled.image.color: #b3b0b1
+
+!! Borders
+border.width: 12
+padding.width: 12
+padding.height: 8
+window.client.padding.width: 0
+window.client.padding.height: 0
+window.handle.width: 0
+window.active.border.color: #f6f7f1
+window.active.title.separator.color: #f6f7f1
+window.active.client.color:  #f6f7f1
+window.active.handle.bg: flat
+window.active.handle.bg.color: #f6f7f1
+window.active.grip.bg: flat
+window.active.grip.bg.color: #e9e9e9
+window.inactive.grip.bg: flat
+window.inactive.grip.bg.color: #f6f7f1
+window.inactive.border.color: #f6f7f1
+window.inactive.title.separator.color: #f6f7f1
+window.inactive.handle.bg: flat
+window.inactive.handle.bg.color: #f6f7f1
+window.inactive.client.color: #f6f7f1
+
+!! OSD
+osd.border.width: 1
+osd.border.color: #f1f2ec
+osd.label.text.color: #5c616c
+osd.bg: flat
+osd.bg.color: #f1f2ec
+osd.label.bg: flat
+osd.label.bg.color: #f1f2ec
+osd.hilight.bg: flat
+osd.hilight.bg.color: #b8b7b8
+osd.unhilight.bg: flat solid
+osd.unhilight.bg.color: #e0ddde
