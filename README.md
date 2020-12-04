@@ -57,11 +57,11 @@ Now Playing : Led Zeppelin - Thank You
 Now Playing : Dream Theater - The Root of All Evil
 
 # Vermello
-![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vermello.jpg) <br />
+![vermello](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/vermello.jpg) <br />
 Now Playing : Dream Theater - The Count of Tuscany
 
 # Adiantum
-![velnias](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/adiantum.png) <br />
+![adiantum](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/adiantum.png) <br />
 Now Playing : Dragonforce - My Spirit Will Go On <br />
 Other files like lemonbar, i3status, Xresources, audacious etc are inside the zip file
 
