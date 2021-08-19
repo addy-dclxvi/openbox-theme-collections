@@ -78,6 +78,7 @@ Other files like lemonbar, i3status, Xresources, gtk theme, audacious, etc are i
 # Silvera
 ![silvera](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/silvera.jpg) <br />
 Other files like tint2, wallpaper, Xresources, cmus, ranger etc are inside the zip file. The fonts I use are Noto Sans, Open Sans, and M+.
+If the button is too small, plase increase the titlebar font size (obconf). Button size is following the text size.
 
 ## Installation
 Listen to music I mention above. 
