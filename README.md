@@ -76,7 +76,7 @@ Now Playing : Pink Floyd - Echoes (Live) <br />
 Other files like lemonbar, i3status, Xresources, gtk theme, audacious, etc are inside the zip file
 
 # Silvera
-![silvera](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/silvera.png) <br />
+![silvera](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/silvera.jpg) <br />
 Other files like tint2, wallpaper, Xresources, cmus, ranger etc are inside the zip file. The fonts I use are Noto Sans, Open Sans, and M+.
 
 ## Installation
