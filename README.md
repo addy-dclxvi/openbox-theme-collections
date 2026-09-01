@@ -65,12 +65,12 @@ Other files like tint2, wallpaper, Xresources, cmus, ranger etc are inside the z
 If the button is too small, plase increase the titlebar font size (obconf). Button size is following the text size.
 
 # Scarlet
-![scarlet](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/scarlet.png)] <br />
+![scarlet](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/scarlet.png) <br />
 Other files like lemonbar, wallpaper, Xresources, cmus, ranger, picom etc are inside the zip file.
 The GTK Theme is Yeti (comes preinstalled in BunsenLabs). Rounded corner is controlled  using picom.
 
 # Dove
-![dove](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/dove.png)] <br />
+![dove](https://raw.githubusercontent.com/addy-dclxvi/openbox-theme-collections/master/dove.png) <br />
 Other files like lemonbar, wallpaper, Xresources, audacious, ranger etc are inside the zip file.
 
 ## Installation
